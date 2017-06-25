@@ -1,6 +1,13 @@
-# 8puzzle-terminal
+# 8puzzle game in terminal
+
+Famous 8 puzzle game, made in Python3
 
 
-![ScreenShot](https://raw.githubusercontent.com/shkolovy/8puzzle-terminal/master/8pussle-terminal.png)
+**Main Menu**
+![ScreenShot](https://raw.githubusercontent.com/shkolovy/8puzzle-terminal/master/screenshots/8puzzle-terminal-main.png)
 
-![ScreenShot](https://raw.githubusercontent.com/shkolovy/8puzzle-terminal/master/demo.gif)
+**The Game**
+![ScreenShot](https://raw.githubusercontent.com/shkolovy/8puzzle-terminal/master/screenshots/8puzzle-terminal-game.png)
+
+**About**
+![ScreenShot](https://raw.githubusercontent.com/shkolovy/8puzzle-terminal/master/screenshots/8puzzle-terminal-about.png)
